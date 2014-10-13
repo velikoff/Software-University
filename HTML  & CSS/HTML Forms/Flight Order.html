@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Flight Order</title>
+    <style>
+        body {background-color: #ffc0cb;}
+        label {font-style: italic; display: inline-block; font-size: 13px;}
+
+        input, select {border: 1px solid #d2cbcc; height: 18px; float: left;}
+        select {height: 23px;}
+        button {border: 1px solid #cac9ca; background-color: #ececec; height: 25px;}
+
+        .large {width: 138px;}
+        .medium {width: 68px;}
+        .small {width: 44px;}
+    </style>
+</head>
+<body>
+<h1><i>FLIGHT ORDER</i></h1>
+<table>
+    <tr class="h">
+        <td><label for="cityFrom">From</label></td>
+        <td><label for="cityTo">To</label></td>
+    </tr>
+    <tr>
+        <td>
+        <select name="cityFrom" id="cityFrom" class="large">
+            <option>enter a city</option>
+            <option>Sofia</option>
+            <option>Varna</option>
+            <option>Plovdiv</option>
+            <option>Bourgas</option>
+        </select>
+        </td>
+        <td>
+            <select name ="cityTo" id="cityTo" class="large">
+                <option>enter a city</option>
+                <option>Sofia</option>
+                <option>Varna</option>
+                <option>Plovdiv</option>
+                <option>Bourgas</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <input type="checkbox" name="direct" value="1" id="direct"/>
+            <label for="direct">Prefer directs</label>
+        </td>
+    </tr>
+    <tr class = "h">
+        <td><label for="departureDate">Departure Date</label></td>
+        <td><label for="departDateTimeInterval">Time Interval</label></td>
+    </tr>
+    <tr>
+        <td><input type="date" name="departureDate" id="departureDate" class="large"></td>
+        <td>
+            <input type="time" name="depTimeStart" id="departDateTimeInterval" class="medium"/>
+            <label> <input type="time" name="depTimeEnd" class="medium"/></label>
+        </td>
+    </tr>
+    <tr class="h">
+        <td><label for="returnDate">Return Date</label></td>
+        <td><label for="returnTimeInterval">Time Interval</label></td>
+    </tr>
+    <tr>
+        <td><input type="date" name="returnDate" id="returnDate" class="large"/> </td>
+        <td>
+            <input type="time" name="retTimeStart" id="returnTimeInterval" class="medium"/>
+            <label><input type="time" name="retTimeEnd" class="medium"/></label>
+        </td>
+    </tr>
+    <tr class="h">
+        <td>
+        <label for="12" class="small">12+</label>
+        <label for="212" class="small">2-12</label>
+        <label for="02" class="small">0-2</label>
+        </td>
+        <td><label for="class">Choose Class</label></td>
+    </tr>
+    <tr>
+        <td>
+            <input type="number" max="12" min="0" name="12" id="12" class="small"/>
+            <input type="number" max="12" min="0" name="213" id="212" class="small"/>
+            <input type="number" max="12" min="0" name="02" id="02" class="small"/>
+        </td>
+        <td>
+            <select name="class" id="class" class="large">
+                <option>Economy</option>
+                <option>Business</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td><button class="large">Search</button></td>
+    </tr>
+
+</table>
+</body>
+</html>
