@@ -1,0 +1,6 @@
+c:\users\vladislav\documents\visual studio 2012\Projects\EncapsulationAndPolymorphism\02. BankOfKurtovoKonare\bin\Debug\_02.BankOfKurtovoKonare.exe.config
+c:\users\vladislav\documents\visual studio 2012\Projects\EncapsulationAndPolymorphism\02. BankOfKurtovoKonare\bin\Debug\_02.BankOfKurtovoKonare.exe
+c:\users\vladislav\documents\visual studio 2012\Projects\EncapsulationAndPolymorphism\02. BankOfKurtovoKonare\bin\Debug\_02.BankOfKurtovoKonare.pdb
+c:\users\vladislav\documents\visual studio 2012\Projects\EncapsulationAndPolymorphism\02. BankOfKurtovoKonare\obj\Debug\02. BankOfKurtovoKonare.csprojResolveAssemblyReference.cache
+c:\users\vladislav\documents\visual studio 2012\Projects\EncapsulationAndPolymorphism\02. BankOfKurtovoKonare\obj\Debug\_02.BankOfKurtovoKonare.exe
+c:\users\vladislav\documents\visual studio 2012\Projects\EncapsulationAndPolymorphism\02. BankOfKurtovoKonare\obj\Debug\_02.BankOfKurtovoKonare.pdb

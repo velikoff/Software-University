@@ -1,0 +1,1 @@
+c:\users\vladislav\documents\visual studio 2012\Projects\StaticMembersAndNamespaces\02. HTMLDispetcher\bin\Debug\_02.HTMLDispetcher.exe.config

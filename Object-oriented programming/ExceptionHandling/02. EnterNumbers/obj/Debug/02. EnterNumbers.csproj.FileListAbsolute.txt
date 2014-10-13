@@ -1,0 +1,6 @@
+c:\users\vladislav\documents\visual studio 2012\Projects\ExceptionHandling\02. EnterNumbers\bin\Debug\_02.EnterNumbers.exe.config
+c:\users\vladislav\documents\visual studio 2012\Projects\ExceptionHandling\02. EnterNumbers\bin\Debug\_02.EnterNumbers.exe
+c:\users\vladislav\documents\visual studio 2012\Projects\ExceptionHandling\02. EnterNumbers\bin\Debug\_02.EnterNumbers.pdb
+c:\users\vladislav\documents\visual studio 2012\Projects\ExceptionHandling\02. EnterNumbers\obj\Debug\02. EnterNumbers.csprojResolveAssemblyReference.cache
+c:\users\vladislav\documents\visual studio 2012\Projects\ExceptionHandling\02. EnterNumbers\obj\Debug\_02.EnterNumbers.exe
+c:\users\vladislav\documents\visual studio 2012\Projects\ExceptionHandling\02. EnterNumbers\obj\Debug\_02.EnterNumbers.pdb
