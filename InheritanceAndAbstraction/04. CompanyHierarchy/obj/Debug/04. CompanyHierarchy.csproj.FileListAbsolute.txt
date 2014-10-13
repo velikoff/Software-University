@@ -1,0 +1,6 @@
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\04. CompanyHierarchy\bin\Debug\_04.CompanyHierarchy.exe.config
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\04. CompanyHierarchy\obj\Debug\04. CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\04. CompanyHierarchy\bin\Debug\_04.CompanyHierarchy.exe
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\04. CompanyHierarchy\bin\Debug\_04.CompanyHierarchy.pdb
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\04. CompanyHierarchy\obj\Debug\_04.CompanyHierarchy.exe
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\04. CompanyHierarchy\obj\Debug\_04.CompanyHierarchy.pdb

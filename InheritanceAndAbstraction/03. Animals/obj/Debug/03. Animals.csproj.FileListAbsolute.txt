@@ -1,0 +1,6 @@
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\03. Animals\bin\Debug\_03.Animals.exe.config
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\03. Animals\bin\Debug\_03.Animals.exe
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\03. Animals\bin\Debug\_03.Animals.pdb
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\03. Animals\obj\Debug\03. Animals.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\03. Animals\obj\Debug\_03.Animals.exe
+C:\Users\Vladislav\documents\visual studio 2012\Projects\InheritanceAndAbstraction\03. Animals\obj\Debug\_03.Animals.pdb
