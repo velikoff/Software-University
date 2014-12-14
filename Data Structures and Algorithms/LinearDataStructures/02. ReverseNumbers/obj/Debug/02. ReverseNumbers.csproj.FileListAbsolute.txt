@@ -1,0 +1,6 @@
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\02. ReverseNumbers\bin\Debug\_02.ReverseNumbers.exe.config
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\02. ReverseNumbers\bin\Debug\_02.ReverseNumbers.exe
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\02. ReverseNumbers\bin\Debug\_02.ReverseNumbers.pdb
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\02. ReverseNumbers\obj\Debug\02. ReverseNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\02. ReverseNumbers\obj\Debug\_02.ReverseNumbers.exe
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\02. ReverseNumbers\obj\Debug\_02.ReverseNumbers.pdb

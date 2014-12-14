@@ -1,0 +1,6 @@
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\01. GetSumAndAverage\bin\Debug\_01.GetSumAndAverage.exe.config
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\01. GetSumAndAverage\bin\Debug\_01.GetSumAndAverage.exe
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\01. GetSumAndAverage\bin\Debug\_01.GetSumAndAverage.pdb
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\01. GetSumAndAverage\obj\Debug\01. GetSumAndAverage.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\01. GetSumAndAverage\obj\Debug\_01.GetSumAndAverage.exe
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\01. GetSumAndAverage\obj\Debug\_01.GetSumAndAverage.pdb

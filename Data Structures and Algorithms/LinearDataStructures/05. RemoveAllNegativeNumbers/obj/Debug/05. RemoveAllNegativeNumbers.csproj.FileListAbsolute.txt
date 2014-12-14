@@ -1,0 +1,6 @@
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\05. RemoveAllNegativeNumbers\bin\Debug\_05.RemoveAllNegativeNumbers.exe.config
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\05. RemoveAllNegativeNumbers\obj\Debug\05. RemoveAllNegativeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\05. RemoveAllNegativeNumbers\bin\Debug\_05.RemoveAllNegativeNumbers.exe
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\05. RemoveAllNegativeNumbers\bin\Debug\_05.RemoveAllNegativeNumbers.pdb
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\05. RemoveAllNegativeNumbers\obj\Debug\_05.RemoveAllNegativeNumbers.exe
+C:\Users\Vladislav\Documents\GitHub\Software-University\Data Structures and Algorithms\LinearDataStructures\05. RemoveAllNegativeNumbers\obj\Debug\_05.RemoveAllNegativeNumbers.pdb
