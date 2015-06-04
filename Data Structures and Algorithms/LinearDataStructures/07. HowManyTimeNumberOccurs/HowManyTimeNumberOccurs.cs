@@ -24,7 +24,7 @@ namespace _07.HowManyTimeNumberOccurs
             for (int i = 0; i < sequence.Length; i+=occurs)
             {
                 occurs = 1;
-               int number = sequence[i];
+                int number = sequence[i];
 
                 for (int j = i + 1; j < sequence.Length; j++)
                 {
